@@ -10,6 +10,10 @@
     {
       "image": "https://raw.githubusercontent.com/davartechnology/bib-kreyol/513716f5de5b5b483974a3312c3dbd0a97fe022c/pubs/bible_LSG.jpg",
       "lien": "https://play.google.com/store/apps/details?id=com.daveo.bible_louis_segond"
-    }
+    },
+     {
+      "image": "https://raw.githubusercontent.com/davartechnology/bib-kreyol/0825fc13c22d7c1696c677a3f56c812febe8f69d/pubs/chants_d%27esperance.jpg",
+      "lien": "https://play.google.com/store/apps/details?id=com.daveo.chants_esperance"
+    },
   ]
 }
