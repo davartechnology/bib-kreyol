@@ -3,12 +3,13 @@
   "rotation_secondes": 20,
   "ratio": 6,
   "pubs": [
-    {"image":
-    "https://github.com/davartechnology/bib-kreyol/blob/8d735dbb654655719b92dfa9cfa1f701d45733bf/pubs/bible_LSG.jpg"
-    "lien": "https://play.google.com/store/apps/details?id=com.daveo.chants_esperance"},
-
-    {"image":
-    ""
-    "lien": "https://play.google.com/store/apps/details?id=com.daveo.bible_louis_segond"}
+    {
+      "image": "https://raw.githubusercontent.com/davartechnology/bib-kreyol/8d735dbb654655719b92dfa9cfa1f701d45733bf/pubs/bible_LSG.jpg",
+      "lien": "https://play.google.com/store/apps/details?id=com.daveo.chants_esperance"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/davartechnology/bib-kreyol/513716f5de5b5b483974a3312c3dbd0a97fe022c/pubs/bible_LSG.jpg",
+      "lien": "https://play.google.com/store/apps/details?id=com.daveo.bible_louis_segond"
+    }
   ]
 }
