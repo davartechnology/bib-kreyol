@@ -3,7 +3,8 @@
   "rotation_secondes": 20,
   "ratio": 6,
   "pubs": [
-    "image":"https://github.com/davartechnology/bib-kreyol/blob/8d735dbb654655719b92dfa9cfa1f701d45733bf/pubs/bible_LSG.jpg"
-    "lien":"https://play.google.com/store/apps/details?id=com.daveo.chants_esperance"
+    "image":
+    "https://github.com/davartechnology/bib-kreyol/blob/8d735dbb654655719b92dfa9cfa1f701d45733bf/pubs/bible_LSG.jpg"
+    "lien": "https://play.google.com/store/apps/details?id=com.daveo.chants_esperance"
   ]
 }
